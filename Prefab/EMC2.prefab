@@ -28976,7 +28976,7 @@ GameObject:
   - component: {fileID: 5176010968649191750}
   - component: {fileID: 193186683830965172}
   m_Layer: 0
-  m_Name: Robot
+  m_Name: EMC2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
